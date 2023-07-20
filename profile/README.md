@@ -7,7 +7,7 @@ Sind is the #1 alternative Scratch. It is optimised and adds more blocks.
 ## Acknowledgements
 
  - [React](https://react.dev/)
- - [Andrey Grachov](https://github.com/grachov/awesome-readme)
+ - [Andrey Grachov](https://github.com/grachov/)
  - [Griffpatch](https://scratch.mit.edu/users/griffpatch)
 
 ## Authors
